@@ -1,0 +1,11 @@
+M. Focker, E.D. van Asselt, B.J.A. Berendsen, M.G.M. van de Schans, S.P.J. van Leeuwen, S.M. Visser, H.J. van der Fels-Klerx,
+Review of food safety hazards in circular food systems in Europe,
+Food Research International,
+Volume 158,
+2022,
+111505,
+ISSN 0963-9969,
+https://doi.org/10.1016/j.foodres.2022.111505.
+(https://www.sciencedirect.com/science/article/pii/S0963996922005634)
+Abstract: European food production systems have become very efficient in terms of high yield, quality and safety. However, these production systems are not sustainable since, amongst other reasons, a significant proportion of the production is wasted or lost in the supply chain. One of the strategies of the European Union is to achieve climate neutrality by moving towards a circular economy with better waste management. This includes, reducing food waste and losses, and reusing or recycling by-products of the food and feed production systems. A circular economy would greatly improve the sustainability of the European food systems, but attention must be paid to the emergence of (new) food safety hazards. New or not well-known hazards can occur because by-products are reintroduced into the system or new processing steps are used for recycling, and/or known hazards can accumulate in the food production chain due to the reuse of (by-)products. This review addresses food safety hazards in the circular biobased economy, covering the domains of plant production, animal production, aquaculture, and packaging. Instead of an exhaustive list of all potential hazards, example cases of circular food production systems are given, highlighting the known and potential emerging food safety hazards. Current literature covering emerging food safety hazards in the circular economy shows to be limited. Therefore, more research is needed to identify food safety hazards, to measure the accumulation and the distribution of such hazards in the food and feed production systems, and to develop control and mitigation strategies. We advocate a food safety by design approach.
+Keywords: Emerging hazard; Contaminant; Pathogen; Food safety; Circular economy; Food waste
